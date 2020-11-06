@@ -2,7 +2,7 @@
 
 to start the express server run the following command
 
-ng run dev 
+npm run dev 
 
 make sure your package.json script has the following
 
