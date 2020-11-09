@@ -1,4 +1,7 @@
-FROM node:7
+#FROM node:7
+# base image
+FROM node:12.2.0
+
 WORKDIR /app
 COPY package.json /app
 RUN npm install
