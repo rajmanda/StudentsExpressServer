@@ -1,0 +1,211 @@
+[
+{
+    "_id": {
+        "$oid": "5b15be4455766d1231954655"
+    },
+    "image": "http://localhost:3000/images/E9174D77-31ED-4354-92FF-005401FA87B1.jpeg",
+    "achievement ": "Perfect 36 on ACT, 1540 on SAT",
+    "school": "Montverde Academy / University of Miami",
+    "name": "Srinidhi Banala",
+    "__v": 0,
+    "password": "1234"
+},
+{
+    "_id": {
+        "$oid": "5b15d3e055766d1231954656"
+    },
+    "image": "http://localhost:3000/images/996047B2-D905-4141-9258-8A3A13610A6C.jpeg",
+    "achievement": "Entering UF College of Dentistry Class of 2022",
+    "school": "University of Florida, majored in Biology ",
+    "name": "Muvva Vangapalli ",
+    "__v": 0,
+    "password": "1234"
+},
+{
+    "_id": {
+        "$oid": "5b15ff148850761dd7d2f77c"
+    },
+    "image": "http://localhost:3000/images/8E0C01DB-8C67-485A-A336-0FA856703062.jpeg",
+    "achievement": "BigHelp Spelling Bee contest 1st place (1st grade) . ",
+    "school": "Orlando Science Elementary School",
+    "name": "Misha Goli",
+    "__v": 0,
+    "password": "1234"
+},
+{
+    "_id": {
+        "$oid": "5b1aa66a8850761dd7d2f789"
+    },
+    "image": "http://localhost:3000/images/Maanya Rao.jpeg",
+    "achievement": "US CHESS Federation top 100 list in USA May 2018",
+    "school": "Ocala Elementary school",
+    "name": "Maanya G Rao",
+    "__v": 0,
+    "password": "1234"
+},
+{
+    "_id": {
+        "$oid": "5b1af6e88850761dd7d2f78f"
+    },
+    "image": "http://localhost:3000/images/58149968-1928-42EB-B339-CC36F1C45E40.jpeg",
+    "achievement": "Duke Tip National recognition award",
+    "school": "OSS",
+    "name": "Harvik kesineni ",
+    "__v": 0,
+    "password": "1234"
+},
+{
+    "_id": {
+        "$oid": "5b1af96f8850761dd7d2f794"
+    },
+    "image": "http://localhost:3000/images/C6F8E92E-4BCA-40F1-97E8-2E33AF181B2F.png",
+    "achievement": "Valedictorian-class of 2018",
+    "school": "OSS",
+    "name": "Ratnesh kesineni",
+    "__v": 0,
+    "password": "1234"
+},
+{
+    "_id": {
+        "$oid": "5f10abaa960f660cb457e9e9"
+    },
+    "name": "Raj",
+    "school": "manda",
+    "achievement": "Topper",
+    "password": "1234",
+    "image": "http://localhost:3000/images/Ravi.jpeg",
+    "imgPath": "http://localhost:3000/images/Ravi.jpeg",
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "5b16ae2d8850761dd7d2f784"
+    },
+    "image": "http://localhost:3000/images/IMG_2997.jpeg",
+    "achievement": "Student Body Vice President, Awarded CIS Magnet of Excellence, pursuing a degree in economics. ",
+    "school": "Dr. Phillips High School, Attending USF",
+    "name": "Sagarika Susarla",
+    "password": "1234",
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "5b1a9f228850761dd7d2f787"
+    },
+    "image": "http://localhost:3000/images/Sanjana Reddy Kosanam.JPG",
+    "achievement": "High School graduated from IB program going to UF (University of Florida) interested in Science.",
+    "school": "Cypress Creek High School",
+    "name": "Sanjana Reddy Kosanam",
+    "__v": 0,
+    "password": "1234"
+},
+{
+    "_id": {
+        "$oid": "5b1aa33a8850761dd7d2f788"
+    },
+    "image": "http://localhost:3000/images/Ananya DUKETIP.jpeg",
+    "achievement": "DUKE TIP SAT High score achiever and recognized at state level USF Tampa",
+    "school": "Orlando Science school",
+    "name": "Ananya Reddy Vittal",
+    "__v": 0,
+    "password": "1234"
+},
+{
+    "_id": {
+        "$oid": "5b1ae1078850761dd7d2f78e"
+    },
+    "image": "http://localhost:3000/images/862A5FE8-B774-4D51-B911-C3E282E314D0.jpeg",
+    "achievement": "SAT Duke TIP grand award winner which only 2611 out of 48569 students who took the test got and made it to robotics world competition",
+    "school": "Lake Highland Prep",
+    "name": "Krithik Seela",
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "5b1a9dd58850761dd7d2f786"
+    },
+    "image": "http://localhost:3000/images/shriyas.jpg",
+    "achievement": "Major  academic achievements\n\n1. On Duke University Program (TIP) achieved high SAT scores and recognized at state level at University of South Florida Tampa.\n\n2. 1st place in the Spanish national exam  in 2027 and 2018.\n\n3. Won  the STEM Research award at the vex IQ world robotics tournament In 2017 and 2018\n\n4. Won full 4 years high school merit scholarship worth over $250,000 called the Batten Scholarship at culver Academy,Indiana .",
+    "school": "8th grade student at Montverde Academy",
+    "name": "Shreyas Shakhamoori",
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "5b1989f18850761dd7d2f785"
+    },
+    "image": "http://localhost:3000/images/116B7622-8A2E-42B2-9398-996369B450B1.jpeg",
+    "achievement": "Working with thousands of underprivileged children ",
+    "school": "PURE",
+    "name": "Shyla Talluri",
+    "__v": 0,
+    "password": "1234"
+},
+{
+    "_id": {
+        "$oid": "5b1d0f7e8850761dd7d2f79a"
+    },
+    "image": "http://localhost:3000/images/Rithvik.jpeg",
+    "achievement": "Valedictorian-class of 2018, \nPerfect 36 on ACT, \nAdmission into 5 Ivy League colleges, Joining Stanford . ",
+    "school": "LHPS",
+    "name": "Rithvik Seela",
+    "__v": 0,
+    "password": "1234"
+},
+{
+    "_id": {
+        "$oid": "5b1d7c2a8850761dd7d2f79b"
+    },
+    "image": "http://localhost:3000/images/Srikar Reddy.jpeg",
+    "achievement": "graduated from the University of Pennsylvania, Wharton Business School with top honors. He is currently a third year medical student at UCF. f",
+    "school": "University of Central Florida",
+    "name": "Srikar Reddy",
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "5b1d7cd48850761dd7d2f79c"
+    },
+    "image": "http://localhost:3000/images/Shilpa Reddy.jpeg",
+    "achievement": "Shilpa Reddy: Shilpa was accepted into the seven year medical program at Northwestern University Chicago. She just finished her first year of medical school.",
+    "school": "North western University",
+    "name": "Shilpa Reddy",
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "5f08c9b0a6a0f7c492317340"
+    },
+    "name": "Ravi ",
+    "school": "Ganhy",
+    "achievement": "Topper",
+    "password": "1234",
+    "image": "http://localhost:3000/images/WhatsApp Image 2020-05-09 at 5.15.23 PM.jpeg",
+    "imgPath": "http://localhost:3000/images/WhatsApp Image 2020-05-09 at 5.15.23 PM.jpeg",
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "5f2306f073ad3fe0e1ff1fdd"
+    },
+    "name": "Raj",
+    "school": "Manda",
+    "achievement": "Topper in the class",
+    "password": "1234",
+    "image": "http://localhost:3000/images/WhatsApp Image 2020-03-21 at 6.44.31 PM.jpeg",
+    "imgPath": "http://localhost:3000/images/WhatsApp Image 2020-03-21 at 6.44.31 PM.jpeg",
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "5faac699d8f04122847ecade"
+    },
+    "name": "Sohan Kotla",
+    "school": "RTHS",
+    "achievement": "Junior",
+    "password": "Test1234",
+    "image": "http://localhost:3000/images\\WIN_20160720_16_28_59_Pro.jpg",
+    "imgPath": "http://localhost:3000/images\\WIN_20160720_16_28_59_Pro.jpg",
+    "__v": 0
+}
+]

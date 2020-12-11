@@ -1,0 +1,17 @@
+apiVersion: build.openshift.io/v1
+kind: BuildConfig
+metadata:
+  name: studentsapi-docker
+spec:
+  output:
+    to:
+      kind: ImageStreamTag
+      name: 'studentsapi-docker:latest'
+  source:
+    git:
+      ref: master
+      uri: 'https://github.com/rajmanda/StudentsExpressServer'
+    type: Git
+  strategy:
+    dockerStrategy:
+    type: Docker
