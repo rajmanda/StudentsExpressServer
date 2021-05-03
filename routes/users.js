@@ -11,14 +11,14 @@ router.get('/', function (req, res) {
 /* GET users listing. 
 router.get('/users/', function(req, res, next) {
   //res.send('respond with a resource');
-    res.render('index', { title: 'Expresssss' });
+    res.send('index', { title: 'Expresssss' });
 });
 */
 
 
 /* GET home page. 
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.send('index', { title: 'Express' });
 });
 */
 

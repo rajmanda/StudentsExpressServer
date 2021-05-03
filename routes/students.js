@@ -7,7 +7,7 @@ const fs = require('fs');
 //Set up mongoose connection
 const mongoose = require('mongoose');
 //const mongoDB = process.env.DB_CONN_STRING;
-const mongoDB = 'mongodb+srv://studentsDBAdmin:Pass123@cluster0.sod5j.mongodb.net/studentsDB';
+const mongoDB = 'mongodb+srv://studentsDBAdmin:Password123@cluster0.sod5j.mongodb.net/studentsDB';
 const Student = require('../models/student');
 
 mongoose.Promise = global.Promise;
