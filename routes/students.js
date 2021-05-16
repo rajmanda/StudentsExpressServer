@@ -77,7 +77,7 @@ router.put('/:id', function(req, res){
         $set: {name: req.body.name, url: req.body.school, achievement: req.body.achievement}
     },
     {
-        new: true
+        new: true  // sends the updated Student. If false sends the un updated student
     },
     function(err, updatedStudent){
         if(err){
